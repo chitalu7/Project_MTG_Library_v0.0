@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E4bnKUhzStoiv7mSMhV8jja8ot8Y1YfIvzb5fgK00ww=",
+  "Source": "MTGArenaWebAPI",
+  "BasePath": "_content/MTGArenaWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
